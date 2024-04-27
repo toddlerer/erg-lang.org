@@ -50,20 +50,13 @@ By enabling the `--features` flag, you can customize the installation and build.
 
 # Download Latest Binaries
 
-[Windows (x86_64)](https://github.com/erg-lang/erg/releases/latest/download/erg-x86_64-pc-windows-msvc.zip)
+- [Windows (x86_64)](https://github.com/erg-lang/erg/releases/latest/download/erg-x86_64-pc-windows-msvc.zip)
+- [Linux (x86_64)](https://github.com/erg-lang/erg/releases/latest/download/erg-x86_64-unknown-linux-gnu.tar.gz)
+- [Linux (aarch64)](https://github.com/erg-lang/erg/releases/latest/download/erg-aarch64-unknown-linux-gnu.tar.gz)
+- [Linux (armv7)](https://github.com/erg-lang/erg/releases/latest/download/erg-armv7-unknown-linux-gnueabihf.tar.gz)
+- [macOS (x86_64)](https://github.com/erg-lang/erg/releases/latest/download/erg-x86_64-apple-darwin.tar.gz)
+- [macOS (aarch64)](https://github.com/erg-lang/erg/releases/latest/download/erg-aarch64-apple-darwin.tar.gz)
 
-[Linux (x86_64)](https://github.com/erg-lang/erg/releases/latest/download/erg-x86_64-unknown-linux-gnu.tar.gz)
-
-[Linux (aarch64)](https://github.com/erg-lang/erg/releases/latest/download/erg-aarch64-unknown-linux-gnu.tar.gz)
-
-[Linux (armv7)](https://github.com/erg-lang/erg/releases/latest/download/erg-armv7-unknown-linux-gnueabihf.tar.gz)
-
-[MacOS (x86_64)](https://github.com/erg-lang/erg/releases/latest/download/erg-x86_64-apple-darwin.tar.gz)
-
-[MacOS (aarch64)](https://github.com/erg-lang/erg/releases/latest/download/erg-aarch64-apple-darwin.tar.gz)
-
-# Download Latest Source
-
-[Source URL](https://github.com/erg-lang/erg/releases/latest)
+# [Download Latest Source](https://github.com/erg-lang/erg/releases/latest)
 
 # [Previous Versions](https://github.com/erg-lang/erg/releases)

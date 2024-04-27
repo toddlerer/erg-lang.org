@@ -23,7 +23,8 @@ highlight_theme = "OneHalfDark"
 juice_logo_name = ""
 juice_logo_path = "logo.svg"
 juice_extra_menu = [
-    { title = "Github", link = "https://github.com/erg-lang"}
+    { title = "Packages", link = "https://package.erg-lang.org" },
+    { title = "GitHub", link = "https://github.com/erg-lang" },
 ]
 
 repository_url = "https://github.com/erg-lang/erg-lang.org"
